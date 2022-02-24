@@ -1,7 +1,7 @@
 ## Requirements
 
 
-#General
+# General
 
 A README.md file, at the root of the folder of the project, is mandatory
 Everything Python-related must be done using python3
