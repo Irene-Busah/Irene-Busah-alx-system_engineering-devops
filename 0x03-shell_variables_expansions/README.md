@@ -1,0 +1,1 @@
+T directory is about shell variables, expansions and alias

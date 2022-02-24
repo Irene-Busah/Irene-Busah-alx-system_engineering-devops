@@ -1,0 +1,18 @@
+total 60
+drwxrwxr-x 2 irene-busah irene-busah 4096 Jun 14 16:35 .
+drwxrwxr-x 6 irene-busah irene-busah 4096 Jun 14 12:36 ..
+-rwxrw-r-- 1 irene-busah irene-busah   30 Jun 14 13:05 0-hello_world
+-rw-rw-r-- 1 irene-busah irene-busah    0 Jun 14 13:03 0-hello_world~
+-rwxrw-r-- 1 irene-busah irene-busah   28 Jun 14 13:30 1-confused_smiley
+-rwxrw-r-- 1 irene-busah irene-busah   28 Jun 14 13:37 2-hellofile
+-rwxrw-r-- 1 irene-busah irene-busah   39 Jun 14 14:44 3-twofiles
+-rwxrw-r-- 1 irene-busah irene-busah   36 Jun 14 14:52 4-lastlines
+-rwxrw-r-- 1 irene-busah irene-busah   35 Jun 14 14:59 5-firstlines
+-rwxrw-r-- 1 irene-busah irene-busah   42 Jun 14 15:15 6-third_line
+-rwxrw-r-- 1 irene-busah irene-busah   92 Jun 14 15:42 7-file
+-rwxrw-r-- 1 irene-busah irene-busah   90 Jun 14 15:41 7-file~
+-rwxrw-r-- 1 irene-busah irene-busah   36 Jun 14 16:35 8-cwd_state
+-rw-rw-r-- 1 irene-busah irene-busah   17 Jun 14 15:42 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 irene-busah irene-busah  158 Jun 14 15:13 iacta
+-rw-rw-r-- 1 irene-busah irene-busah    0 Jun 14 16:36 ls_cwd_content
+-rw-rw-r-- 1 irene-busah irene-busah  499 Jun 14 12:57 README.md
